@@ -1,0 +1,5 @@
+solar_panel/
+*.zip
+*.ipynb_checkpoints
+__pycache__/
+.env
