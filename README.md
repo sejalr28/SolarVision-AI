@@ -1,3 +1,4 @@
+
 # SolarVision AI
 
 AI-powered solar panel defect detection and inspection platform using deep learning and drone imagery.
@@ -50,3 +51,6 @@ streamlit run app.py
 - YOLO-based defect localization
 - Thermal imaging support
 - Cloud deployment
+
+# SolarVision-AI
+
